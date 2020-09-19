@@ -37,3 +37,17 @@ Don't change these names.
 Then, run
 
 <code>npm start</code>
+
+# Images
+
+The landing page, containing featured playlists with their respective links to Spotify
+
+![Landing](github-resources/landing.PNG)
+
+Filters that can be applied
+
+![Filters](github-resources/filters.PNG)
+
+Pagination shows Next and Previous page
+
+![Pagination](github-resources/pagination.PNG)
