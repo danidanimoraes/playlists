@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/playlists/static/css/main.56535463.chunk.css",
+    "main.js": "/playlists/static/js/main.28e5627f.chunk.js",
+    "main.js.map": "/playlists/static/js/main.28e5627f.chunk.js.map",
+    "runtime-main.js": "/playlists/static/js/runtime-main.437ef376.js",
+    "runtime-main.js.map": "/playlists/static/js/runtime-main.437ef376.js.map",
+    "static/js/2.0f6482e6.chunk.js": "/playlists/static/js/2.0f6482e6.chunk.js",
+    "static/js/2.0f6482e6.chunk.js.map": "/playlists/static/js/2.0f6482e6.chunk.js.map",
+    "index.html": "/playlists/index.html",
+    "precache-manifest.0f09927fe39b6bf107c4bd00805eb06f.js": "/playlists/precache-manifest.0f09927fe39b6bf107c4bd00805eb06f.js",
+    "service-worker.js": "/playlists/service-worker.js",
+    "static/css/main.56535463.chunk.css.map": "/playlists/static/css/main.56535463.chunk.css.map",
+    "static/js/2.0f6482e6.chunk.js.LICENSE.txt": "/playlists/static/js/2.0f6482e6.chunk.js.LICENSE.txt",
+    "static/media/ifood-logo.PNG": "/playlists/static/media/ifood-logo.807fcd77.PNG",
+    "static/media/no-image.jpg": "/playlists/static/media/no-image.c3122a41.jpg",
+    "static/media/spotify-logo.png": "/playlists/static/media/spotify-logo.96a319e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.437ef376.js",
+    "static/js/2.0f6482e6.chunk.js",
+    "static/css/main.56535463.chunk.css",
+    "static/js/main.28e5627f.chunk.js"
+  ]
+}
