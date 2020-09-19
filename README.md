@@ -38,6 +38,9 @@ Then, run
 
 <code>npm start</code>
 
+# Gh-pages
+It is served here: https://danidanimoraes.github.io/playlists/
+
 # Images
 
 The landing page, containing featured playlists with their respective links to Spotify
